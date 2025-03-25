@@ -28,7 +28,8 @@ source netaccess_env/bin/activate  # macOS/Linux
 netaccess_env\Scripts\activate  # Windows
 ```
 
-After using you can use ```bash
+After using  you can use 
+```bash
 deactivate
 ```
 to deactivate the virtual environment
@@ -62,11 +63,18 @@ Once everything is set up, activate the virtual environment (if not already acti
 ```bash
 python netaccess_script.py
 ```
+You can press enter to close the tab.
+If you are using virtual environment you can use 
+```bash
+deactivate
+```
+to deactivate the virtual environment
 
 ✅ The script will automatically:
 - Login to NetAccess
 - Select the **1-day** option
 - Click **Authorize**
+
 
 ---
 
