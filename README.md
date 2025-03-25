@@ -1,4 +1,4 @@
-# NetAccess Auto-Login Script
+# IITM-Netaccess-autologin
 
 ## 🚀 Overview
 This script automates the login process for **NetAccess IIT Madras**, selecting the **1-day** access option and authorizing it automatically.
