@@ -1,4 +1,4 @@
-# IITM-Netaccess-autologin
+# IITM-Netaccess-auto-login
 
 ## 🚀 Overview
 This script automates the login process for **NetAccess IIT Madras**, selecting the **1-day** access option and authorizing it automatically.
@@ -27,12 +27,6 @@ python -m venv netaccess_env
 source netaccess_env/bin/activate  # macOS/Linux
 netaccess_env\Scripts\activate  # Windows
 ```
-
-After using  you can use 
-```bash
-deactivate
-```
-to deactivate the virtual environment
 
 ### 3️⃣ Install Required Dependencies
 Run the following command inside the virtual environment:
